@@ -6,7 +6,7 @@ This project is an analysis based on New York Citi Bike data, using Tablaeu to v
 ## Results
 
 Tableau analysis
-[link to dashboard]("https://public.tableau.com/app/profile/bala.banda/viz/NYCCitibikeAnalysis_16315468310070/NYCCitibikeanalysis")
+[link to dashboard](LINK GOES HERE "https://public.tableau.com/app/profile/bala.banda/viz/NYCCitibikeAnalysis_16315468310070/NYCCitibikeanalysis")
 
 ### NYC Customer data visualization
 
